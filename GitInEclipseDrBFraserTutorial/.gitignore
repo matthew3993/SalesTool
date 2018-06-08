@@ -1,2 +1,5 @@
 /bin/
+/.metadata/
+/.recommenders/
+/.settings/org.eclipse.jdt.core.prefs
 /.classpath
